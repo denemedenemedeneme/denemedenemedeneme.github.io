@@ -1663,7 +1663,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: linear-gradient(to left, #333c73 0%, #01b0f1 100%);
 }
 
 #footer .footer-newsletter {
